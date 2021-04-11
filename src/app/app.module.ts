@@ -23,7 +23,7 @@ import { PhotoEditorComponent } from './components/members/photo-editor/photo-ed
 
 import { ErrorInterceptor } from './_interceptors/error.interceptor';
 import { JwtInterceptor } from './_interceptors/jwt.interceptor';
-import { LoadingInterceptor } from './_interceptiors/loading.interceptor';
+import { LoadingInterceptor } from './_interceptors/loading.interceptor';
 import { TextInputComponent } from './_forms/text-input/text-input.component';
 import { DateInputComponent } from './_forms/date-input/date-input.component';
 
